@@ -1,1 +1,0 @@
-﻿program test_stand;{$APPTYPE CONSOLE}begin  Writeln('Hello world');  ReadLn;end.
